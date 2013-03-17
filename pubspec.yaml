@@ -1,8 +1,8 @@
 name: dictionary
-version: 0.2.0
+version: 0.2.1
 homepage: https://github.com/JosephMoniz/dart-dictionary
 description: >
   A more composable alternative to Dart's native Map implementation
 author: Joseph Moniz <joseph.moniz@gmail.com>
 dependencies:
-  option:   0.2.1
+  option: '>=0.2.0 <0.3.0'
